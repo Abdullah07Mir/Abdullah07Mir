@@ -42,7 +42,7 @@ I'm <b>Abdullah Mir</b>, a Mobile App Developer having experience in building re
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsanr44&theme=vue-dark)](https://git.io/streak-stats)
 <hr>
 <p align="center"> 
-  Total Visitors on Ahsan's Profile<br>
+  Total Visitors on Abdullah's Profile<br>
   <img src="https://profile-counter.glitch.me/Abdullah07Mir/count.svg" />
 </p> 
 

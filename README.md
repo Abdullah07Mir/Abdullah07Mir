@@ -31,11 +31,11 @@ I'm <b>Abdullah Mir</b>, a Mobile App Developer having experience in building re
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-<a href="https://github.com/mahsanr44">
+<a href="https://github.com/Abdullah07Mir">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> 
 
-<a href="https://github.com/mahsanr44">
+<a href="https://github.com/Abdullah07Mir">
   <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=mahsanr44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ahsan's GitHub Stats" />
 </a>
 
@@ -43,7 +43,7 @@ I'm <b>Abdullah Mir</b>, a Mobile App Developer having experience in building re
 <hr>
 <p align="center"> 
   Total Visitors on Ahsan's Profile<br>
-  <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
+  <img src="https://profile-counter.glitch.me/Abdullah07Mir/count.svg" />
 </p> 
 
 <!-- ## 🐦 My Latest Tweet
